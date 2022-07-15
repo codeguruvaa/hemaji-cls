@@ -1,0 +1,70 @@
+header{
+    width: 950px;
+    height: 25px;
+    background-color: gray;
+    color: white;
+
+    padding: 20px;
+    text-align: center;
+}
+
+.slider{
+    width: 950px;
+    height: 250px;
+    background-color: orange;
+
+    padding: 20px;
+
+}
+
+.pOne{
+    width:475px ;
+    height: 250px;
+    /* background-color: darkcyan; */
+
+    float: left;
+    padding: 10px;
+}
+.pTwo{
+    width: 475px;
+    height: 250px;
+    /* background-color: gray; */
+
+    float: left;
+    padding: 10px;
+}
+
+.boxOne{
+    width:316px ;
+    height: 250px;
+    background-color: gray;
+
+    float: left;
+    padding:5px ;
+}
+.boxTwo{
+    width: 316px;
+    height: 250px;
+    background-color: darkcyan;
+
+    float: left;
+    padding:5px ;
+
+    margin: 0px 5px 5px 5px;
+}
+.boxThree{
+    width: 316px;
+    height: 250px;
+    background-color: orangered;
+
+    float: left;
+    padding:5px ;
+}
+
+footer{
+    width: 950px;
+    height: 150px;
+    background-color: cyan;
+
+    padding: 20px;
+}
